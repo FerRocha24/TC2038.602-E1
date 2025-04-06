@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/fernandorcha/Documents/E1-Algoritmos/TC2038.602-E1",
+      "program": "/Users/fernandorcha/Documents/E1-Algoritmos/TC2038.602-E1/build/Debug/outDebug"
+    }
+  ]
+}

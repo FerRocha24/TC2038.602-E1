@@ -1,0 +1,23 @@
+Equipo 5
+
+////////////////////////////////////////////////////////////////////////////////////////
+Fernando Rocha Martinez A00836634
+Mi participación se centró principalmente en el archivo main.cpp, 
+donde implementé la lógica que coordina las funciones de análisis, 
+impresión de resultados y manejo de flujo general del programa. 
+Me aseguré de que el formato de salida coincidiera exactamente con el que se pedía 
+en el enunciado.
+
+Además, me encargué de identificar y corregir un problema clave 
+relacionado con la lectura de archivos. Al principio, el programa arrojaba 
+posiciones incorrectas para ciertos resultados (por ejemplo, mostraba 1751 en lugar de 1786), 
+debido a que los saltos de línea no se estaban considerando correctamente al 
+leer los archivos. Encontré que al no conservar los \n del archivo original, 
+las posiciones en la memoria no coincidían con las posiciones reales del archivo. 
+Implementé una solución que preserva los saltos de línea al leer los archivos, 
+lo cual resolvió el problema y permitió que las posiciones fueran precisas.
+
+Gracias a este ajuste, el programa ahora cumple con todos los requisitos 
+funcionales y de formato, y genera resultados correctos en todas las pruebas.
+
+////////////////////////////////////////////////////////////////////////////////////////
