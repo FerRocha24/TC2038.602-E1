@@ -20,4 +20,16 @@ lo cual resolvió el problema y permitió que las posiciones fueran precisas.
 Gracias a este ajuste, el programa ahora cumple con todos los requisitos 
 funcionales y de formato, y genera resultados correctos en todas las pruebas.
 
+Daniel Gerardo Galván Santacruz A01282414
+Me centre en el desarrollo de algoritmos de análisis de texto,
+específicamente en la función que detecta palíndromos en las transmisiones.
+
+Implementé un enfoque de expansión que considera tanto palíndromos
+de longitud par como impar. El algoritmo examina cada posición del texto como posible centro
+y se expande hacia ambos lados mientras los caracteres sean iguales, actualizando el palíndromo
+más largo encontrado hasta el momento.
+
+Un desafío fue asegurar que las posiciones devueltas fueran correctas.
+
+
 ////////////////////////////////////////////////////////////////////////////////////////
